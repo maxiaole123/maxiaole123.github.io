@@ -79,4 +79,46 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://maxiaole.online/blog/06-数据安全事件应急预案.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiaole.online/blog/2026-06-26-个人信息保护影响评估PIA操作实务.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiaole.online/blog/2026-07-01-数据出境安全评估申报指南逐条解读.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiaole.online/blog/2026-07-02-PIPL第13条：处理个人信息的七种合法性基础详解.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiaole.online/blog/56-数据安全风险评估方法论与实践.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiaole.online/blog/59-个人信息处理者与受托人的责任划分.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
