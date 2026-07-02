@@ -141,6 +141,11 @@ body {
   border: 1px solid var(--color-primary);
 }
 
+.badge-cert {
+  background: var(--color-success);
+  color: #fff;
+}
+
 /* ---- Sections ---- */
 .section {
   padding: 60px 0;
