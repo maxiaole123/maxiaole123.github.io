@@ -1,3 +1,15 @@
+# 允许所有搜索引擎抓取
 User-agent: *
 Allow: /
+Crawl-delay: 5
 Sitemap: https://maxiaole.online/sitemap.xml
+
+# 百度爬虫特殊配置（加快百度收录速度）
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+# 禁止抓取无关文件
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /assets/
