@@ -1,15 +1,1 @@
-# 允许所有搜索引擎抓取
-User-agent: *
-Allow: /
-Crawl-delay: 5
-Sitemap: https://maxiaole.online/sitemap.xml
-
-# 百度爬虫特殊配置（加快百度收录速度）
-User-agent: Baiduspider
-Allow: /
-Crawl-delay: 2
-
-# 禁止抓取无关文件
-Disallow: /*.js$
-Disallow: /*.css$
-Disallow: /assets/
+IyDlhYHorrjmiYDmnInmkJzntKLlvJXmk47mipPlj5YKVXNlci1hZ2VudDogKgpBbGxvdzogLwpDcmF3bC1kZWxheTogNQpTaXRlbWFwOiBodHRwczovL21heGlhb2xlLm9ubGluZS9zaXRlbWFwLnhtbAoKIyDnmb7luqbniKzomavnibnmrorphY3nva7vvIjliqDlv6vnmb7luqbmlLblvZXpgJ/luqbvvIkKVXNlci1hZ2VudDogQmFpZHVzcGlkZXIKQWxsb3c6IC8KQ3Jhd2wtZGVsYXk6IDIKCiMg56aB5q2i5oqT5Y+W5peg5YWz5paH5Lu2CkRpc2FsbG93OiAvKi5qcyQKRGlzYWxsb3c6IC8qLmNzcyQKRGlzYWxsb3c6IC9hc3NldHMvCg==

@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0F172A"/>
-      <stop offset="100%" style="stop-color:#1E3A5F"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="80" y="260" font-family="system-ui, sans-serif" font-size="56" font-weight="700" fill="#E2E8F0">马晓乐</text>
-  <text x="80" y="330" font-family="system-ui, sans-serif" font-size="32" font-weight="400" fill="#94A3B8">专注数据合规 · AI + Law</text>
-  <text x="80" y="400" font-family="system-ui, sans-serif" font-size="24" fill="#64748B">东润律师事务所 · 青岛</text>
-  <rect x="80" y="460" width="120" height="4" fill="#3B82F6" rx="2"/>
-  <text x="80" y="530" font-family="system-ui, sans-serif" font-size="20" fill="#475569">法规动态监测 · 合规差距扫描 · 风险预警</text>
-</svg>
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMEYxNzJBIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFFM0E1RiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDx0ZXh0IHg9IjgwIiB5PSIyNjAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNFMkU4RjAiPumprOaZk+S5kDwvdGV4dD4KICA8dGV4dCB4PSI4MCIgeT0iMzMwIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iNDAwIiBmaWxsPSIjOTRBM0I4Ij7kuJPms6jmlbDmja7lkIjop4QgwrcgQUkgKyBMYXc8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjQwMCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzY0NzQ4QiI+5Lic5ram5b6L5biI5LqL5Yqh5omAIMK3IOmdkuWymzwvdGV4dD4KICA8cmVjdCB4PSI4MCIgeT0iNDYwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjQiIGZpbGw9IiMzQjgyRjYiIHJ4PSIyIi8+CiAgPHRleHQgeD0iODAiIHk9IjUzMCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0iIzQ3NTU2OSI+5rOV6KeE5Yqo5oCB55uR5rWLIMK3IOWQiOinhOW3rui3neaJq+aPjyDCtyDpo47pmanpooToraY8L3RleHQ+Cjwvc3ZnPgo=
