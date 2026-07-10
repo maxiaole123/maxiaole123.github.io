@@ -1,8 +1,3 @@
-include:
-  - blog/*.html
-  - blog/*.md
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
+# Disable Jekyll entirely
+# This site uses .nojekyll but also configures safe mode
+safe: true
