@@ -1,0 +1,8 @@
+include:
+  - blog/*.html
+  - blog/*.md
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
