@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://maxiaole.online/blog/2026-07-20-APP权限申请的合规红线：从超范围到最小必要.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://maxiaole.online/blog/57-物联网设备数据采集合规指南.html</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -393,6 +399,12 @@
   <url>
     <loc>https://maxiaole.online/blog/personal-info-protection-2026-review.html</loc>
     <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maxiaole.online/blog/2026-07-07-数据安全审查制度最新进展与影响.html</loc>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
